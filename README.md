@@ -21,8 +21,8 @@ Welcome to **Daily Motivation**, a feel-good Streamlit web app that delivers a d
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/daily-motivation-app.git
-cd daily-motivation-app
+git clone https://github.com/muzaffar401/Daily_Motivational_Quotes_App-.git
+cd Daily_Motivational_Quotes_App
 ```
 
 ### 2. **Install Dependencies**
